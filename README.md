@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tanmay 👋
 
-<!--
-**tanmaysakhuja0716/tanmaysakhuja0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+I'm currently learning Java, Object-Oriented Programming (OOP), Database Management Systems (DBMS), and strengthening my web development fundamentals with HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Java & OOP
+- Database Management Systems (DBMS)
+- HTML, CSS & JavaScript
+- Git & GitHub
+- Building personal projects
+
+## 📚 Currently Learning
+- Writing clean and beginner-friendly code
+- Problem solving
+- Software development fundamentals
+
+## 🎯 Goal
+To build meaningful software projects, improve my development skills, and grow into a software engineer.
+
+---
+*"Learning one project at a time."*
